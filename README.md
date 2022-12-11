@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-roshanojha
 - 🌱 I’m currently learning full stack web development
-- 📫 How to reach me at its.roshanojha@gmail.com
+- 📫 You can reach me at its.roshanojha@gmail.com
 
 <!---
 its-roshanojha/its-roshanojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
